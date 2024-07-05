@@ -10,4 +10,3 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicollorens12&theme=tokyonight)](https://github.com/nicollorens12/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicollorens12&size_weight=0.5&count_weight=0.5&layout=donut&theme=tokyonigh)](https://github.com/nicollorens12/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nicollorens12)](https://github.com/nicollorens12/github-readme-stats)
