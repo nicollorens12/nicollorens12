@@ -1,5 +1,5 @@
-## Hi there 👋
-[![MasterHead](./header.png)]([your GitHub link](https://github.com/nicollorens12/))
+
+[![MasterHead](./header.png)](https://github.com/nicollorens12/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicollorens12&theme=tokyonight)](https://github.com/nicollorens12/github-readme-stats)
 
