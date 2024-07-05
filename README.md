@@ -10,8 +10,5 @@
 
 
 <a href="https://github.com/nicollorens12/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nicollorens12&theme=tokyonight" />
-</a>
-<a href="https://github.com/nicollorens12/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollorens12&size_weight=0.5&count_weight=0.5&layout=donut&theme=tokyonight&card_width=320" />
 </a>
