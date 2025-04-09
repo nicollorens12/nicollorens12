@@ -1,7 +1,7 @@
 [![MasterHead](./header.png)](https://github.com/nicollorens12/)
 
-- 🔭 I’m currently working on EDAG Engineering Spain.
-- 🌱 I’m currently learning React/JS for frontend and Python/C# for backend/ML/Data Science.
+- 🔭 I’m currently working on Hypergraph AI - Napptilus Tech.
+- 🌱 I’m currently specializing on non-supervised learning and graph structured ML algorithms.
 - 👯 I’m looking to collaborate on Computational Science projects (ML, Data Science, Algorithmic efficiency, etc...), but I'm always open to learning new things!
 - 📫 Reach me via Linkedin or Email!
 
