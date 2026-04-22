@@ -1,8 +1,5 @@
 [![MasterHead](./header.png)](https://github.com/nicollorens12/)
 
-- 🔭 I’m currently working on Hypergraph AI - Napptilus Tech.
-- 🌱 I’m currently specializing on non-supervised learning and graph structured ML algorithms.
-- 👯 I’m looking to collaborate on Computational Science projects (ML, Data Science, Algorithmic efficiency, etc...), but I'm always open to learning new things!
 - 📫 Reach me via Linkedin or Email!
 
 <a href="https://github.com/nicollorens12/github-readme-stats" style="margin-top: 10px; display: block;">
